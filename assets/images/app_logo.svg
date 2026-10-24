@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Calculator app icon</title>
+  <desc id="desc">A flat, high-contrast calculator logo made from four colorful tiles showing plus, minus, multiplication, and division symbols.</desc>
+  <!-- Solid-color icon: no gradients, glows, shadows, or textures. -->
+  <rect x="0" y="0" width="512" height="512" rx="116" fill="#17172B"/>
+
+  <!-- Four balanced, generously rounded operator tiles -->
+  <rect x="76" y="76" width="166" height="166" rx="34" fill="#BDF26D"/>
+  <rect x="270" y="76" width="166" height="166" rx="34" fill="#FF7058"/>
+  <rect x="76" y="270" width="166" height="166" rx="34" fill="#49D4E6"/>
+  <rect x="270" y="270" width="166" height="166" rx="34" fill="#8667F6"/>
+
+  <!-- Plus -->
+  <g fill="#17172B">
+    <rect x="146" y="118" width="26" height="82" rx="13"/>
+    <rect x="118" y="146" width="82" height="26" rx="13"/>
+  </g>
+
+  <!-- Minus -->
+  <rect x="309" y="146" width="88" height="26" rx="13" fill="#17172B"/>
+
+  <!-- Multiplication -->
+  <g stroke="#17172B" stroke-width="25" stroke-linecap="round">
+    <path d="M124 318 L194 388" fill="none"/>
+    <path d="M194 318 L124 388" fill="none"/>
+  </g>
+
+  <!-- Division -->
+  <g fill="#FFFFFF">
+    <circle cx="353" cy="315" r="13"/>
+    <rect x="309" y="342" width="88" height="26" rx="13"/>
+    <circle cx="353" cy="395" r="13"/>
+  </g>
+</svg>
