@@ -4,7 +4,7 @@
 **Last Updated:** October 24, 2026  
 **Application Name:** Calculator (Premium Calculator)  
 **Package Name:** `com.dimension.calculator`  
-**Contact Email:** [o1o1zzaaqq1@gmail.com](mailto:o1o1zzaaqq1@gmail.com)  
+**Contact Email:** [darkdotdarkline@gmail.com](mailto:darkdotdarkline@gmail.com)  
 
 ---
 
@@ -172,7 +172,7 @@ For complete transparency with Google Play Store policies and requirements, here
 | **User Feedback** | Feedback comments, star ratings | **Yes (Voluntary)** | **Yes (Stored in Supabase)** | No | Yes (HTTPS / TLS) | Optional (User initiated) |
 
 - **Data Transfer Security:** All data in transit between the Application, Supabase, and Google AdMob is encrypted using standard industry-grade HTTPS/TLS 1.2 and TLS 1.3 protocols.
-- **Data Deletion Mechanism:** Users can request immediate deletion of their telemetry records and feedback by emailing [o1o1zzaaqq1@gmail.com](mailto:o1o1zzaaqq1@gmail.com).
+- **Data Deletion Mechanism:** Users can request immediate deletion of their telemetry records and feedback by emailing [darkdotdarkline@gmail.com](mailto:darkdotdarkline@gmail.com).
 
 ---
 
@@ -196,7 +196,7 @@ Regardless of your geographic location, we respect your rights regarding your pe
 
 ### How to Submit a Data Deletion Request
 To exercise any of the rights listed above, please submit a written request to our dedicated privacy contact:
-- **Email:** [o1o1zzaaqq1@gmail.com](mailto:o1o1zzaaqq1@gmail.com)
+- **Email:** [darkdotdarkline@gmail.com](mailto:darkdotdarkline@gmail.com)
 - **Subject Line:** *Privacy Rights / Data Deletion Request - Calculator App*
 - **Verification:** Please include your anonymous Device ID (visible in the App's About/Settings screen, if applicable) or device model to help us locate and purge any corresponding records within thirty (30) days.
 
@@ -208,7 +208,7 @@ The Application is designed as a general-utility calculation tool. We do not int
 
 Because our calculation operations occur locally on the user's device and do not require user accounts, email registration, or age verification, we do not intentionally assemble personal profiles of child users. Furthermore, third-party advertising SDKs are configured to comply with Google Play's Families Policy and COPPA requirements.
 
-If you are a parent or legal guardian and believe that your child has provided personal information to our servers without your verifiable consent, please contact us immediately at [o1o1zzaaqq1@gmail.com](mailto:o1o1zzaaqq1@gmail.com). Upon notification, we will take prompt steps to verify and delete such information from our records.
+If you are a parent or legal guardian and believe that your child has provided personal information to our servers without your verifiable consent, please contact us immediately at [darkdotdarkline@gmail.com](mailto:darkdotdarkline@gmail.com). Upon notification, we will take prompt steps to verify and delete such information from our records.
 
 ---
 
@@ -260,6 +260,6 @@ When changes are made:
 If you have any questions, clarifications, complaints, data deletion inquiries, or feedback regarding this Privacy Policy and our privacy practices, please contact us directly:
 
 - **Entity / Developer:** Calculator Support Team
-- **Dedicated Privacy Email:** [o1o1zzaaqq1@gmail.com](mailto:o1o1zzaaqq1@gmail.com)
+- **Dedicated Privacy Email:** [darkdotdarkline@gmail.com](mailto:darkdotdarkline@gmail.com)
 - **Application Package:** `com.dimension.calculator`
 - **Response Commitment:** We aim to review and respond to all legitimate privacy inquiries within fifteen (15) to thirty (30) business days.
